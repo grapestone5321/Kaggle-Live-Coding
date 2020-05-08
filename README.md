@@ -30,3 +30,9 @@ More details here: https://www.kaggle.com/product-feedback/121068
 ### 6. Data cleaning!🧹 | Kaggle
 
 This week it's all about the data cleaning. We'll be taking a raw survey dataset & get it ready to be used for classification.
+
+
+
+### 34. Is it getting easier or harder to become a kernels expert? | Kaggle
+
+Join Kaggle data scientist Rachael Tatman as she investigates whether it's getting easier or harder to become a kernels expert (or master or grandmaster!). 
