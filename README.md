@@ -40,6 +40,33 @@ Join Kaggle data scientist Rachael Tatman as she investigates whether it's getti
 
 ### 35. Softmax from Scratch | Kaggle
 
+### 72. Q&A | Kaggle
+
+Join Kaggle Data Scientist Rachael for something a bit different: a question and answers episode! 
+
+### 73. How similar are the meaning of job titles? | Kaggle
+
+Join Kaggle Data Scientist Rachael as she trains custom word embeddings based on a list of job titles and then uses Word Mover's Distance to figure out how similar the meaning of different job titles are. 
+
+### 74. Reproducing Research Project (part 4) | Kaggle
+
+### 75. Reproducing Research Project (part 3) | Kaggle
+
+### 76. Reproducing Research Project (part 2) | Kaggle
+
+
+### 77. Reproducing Research Project (part 1) | Kaggle
+
+Join Kaggle Data Scientist Rachael as she works on reproducing the figures and analysis from a research paper. 
+
+### 78. Reading in JSON Files | Kaggle
+
+Join Kaggle Data Scientist Rachael as she talks about how to read JSON files into R and convert them into different data structure. 
+
+First, she shows how to read in a simple example dataset and then a larger (and less tidy!) JSON dataset.
+
+### 79. Emoji Analysis (part 5) | Kaggle
+
 ### 80. Emoji Analysis (part 4) | Kaggle
 
 ### 81. Emoji Analysis (part 3) | Kaggle
