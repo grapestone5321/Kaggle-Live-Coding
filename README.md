@@ -40,4 +40,12 @@ Join Kaggle data scientist Rachael Tatman as she investigates whether it's getti
 
 ### 35. Softmax from Scratch | Kaggle
 
+### 80. Emoji Analysis (part 4) | Kaggle
+
+### 81. Emoji Analysis (part 3) | Kaggle
+
+### 82. Emoji Analysis (part 2) | Kaggle
+
+### 83. Emoji Analysis (part 1) | Kaggle
+
 
