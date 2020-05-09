@@ -33,15 +33,123 @@ This week it's all about the data cleaning. We'll be taking a raw survey dataset
 
 
 
+### 7. Error Analysis | Kaggle
+
+### 8. How to come up with ideas for a project 🤔 | Kaggle
+
+### 9. Automatic ML | Kaggle
+
+### 10. Data Cleaning for AutoML | Kaggle
+
+
+### 11. Automatic Machine Learning | Kaggle
+
+### 12. Automatically generating reports | Kaggle
+
+### 13. Making code modular | Kaggle
+
+### 14. Automating report generation | Kaggle
+
+### 15. Identifying the most important words in a cluster (Part 2) | Kaggle
+
+### 16. Identifying the most important words in a cluster (Part 1) | Kaggle
+
+### 17. Implementing Text Cluster Visualizations | Kaggle
+
+### 18. Surprise Debugging 😳🐛 | Kaggle
+
+### 19. Visualizing Clusters | Kaggle
+
+### 20. Data Cleaning for Topics | Kaggle
+
+### 21. Hierarchical Document Clustering | Kaggle
+
+### 22. Document Clustering | Kaggle
+
+### 23. Document Embedding | Kaggle
+
+### 24. Word Embeddings | Kaggle
+
+### 25. Setting Up NLP Pipeline | Kaggle
+
+### 26. Evaluating clusters (text data) | Kaggle
+
+### 27. Making text sound old-timey with transformers (Part 5) | Kaggle
+
+### 28. Topic Modelling for Kaggle Forums | Kaggle
+
+### 29. Topic Modelling for Kaggle Forums | Kaggle
+
+### 30. Brown Clustering | Kaggle
+
+### 31. Unsupervised Keyword Extraction| Kaggle
+
+This week we're going to continue on our forum-summarizing chat bot project. 
+
+We'll start by seeing how unsupervised keyword extraction goes (use YAKE) and take it from there.
+
+### 32. Comparing unsupervised classification methods for text | Kaggle
+
+### 33. Scoping & Starting an NLP Project | Kaggle
+
+
+
 ### 34. Is it getting easier or harder to become a kernels expert? | Kaggle
 
-Join Kaggle data scientist Rachael Tatman as she investigates whether it's getting easier or harder to become a kernels expert (or master or grandmaster!). 
 
+Join Kaggle data scientist Rachael Tatman as she investigates whether it's getting easier or harder to become a kernels expert (or master or grandmaster!).
 
 ### 35. Softmax from Scratch | Kaggle
 
+### 34. Code Reviews! Class imbalanced in Python | Kaggle
+
+Today we'll be reviewing code instead of writing our own. We'll be looking for: 
+
+🐞 bugs the authors might have missed
+🎿 places we can improve efficiency
+🔡 confusing names/comments
+
+Link to code: 
+- "Dealing with unbalance: EDA,PCA,SMOTE,LR,SVM,DT,RF" by Alexander Abstreiter, https://www.kaggle.com/ambpro/dealing-with-unbalance-eda-pca-smote-lr-svm-dt-rf
 
 
+### 37. Code Reviews! | Kaggle
+
+
+### 38. Are people more likely to use datasets with starter scripts? | Kaggle
+
+### 39. Intro to Machine Learning with R (Part 2) | Kaggle
+
+### 40. Intro to Machine Learning with R (Part 1) | Kaggle
+
+### 41. What makes Kaggle datasets successful? | Kaggle
+
+Join Kaggle Data Scientist Rachael as she works on data science projects! 
+
+Today we'll be looking at Kaggle's own data to figure out what qualities make datasets successful. 
+
+### 42. Efficiently find overlaps between test & train data | Kaggle
+
+Join Kaggle Data Scientist Rachael as she works on data science projects! 
+
+Today we'll be implementing the dataset overlap metrics from "Models are Unsupervised Multitask Learners" (Radford et al, unpublished). 
+
+You can find a copy here: https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf
+
+### 43. Code Reviews! | Kaggle
+
+### 44. Graphing entity co-occurrence in online rumors (part 3) | Kaggle
+
+
+### 45. Getting Started with the Gendered Pronoun Resolution Competition | Kaggle
+
+Join Kaggle data scientist Rachael live as she works on data science projects! 
+
+This week we're going to start working on an entry for the new Gendered Pronoun Resolution competition. 
+
+Link: https://www.kaggle.com/c/gendered-pronoun-resolution
+
+### 46. Topic Modelling for Kaggle Forums | Kaggle
 
 ### 47. Anonymizing Tweets | Kaggle
 
