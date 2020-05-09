@@ -40,6 +40,69 @@ Join Kaggle data scientist Rachael Tatman as she investigates whether it's getti
 
 ### 35. Softmax from Scratch | Kaggle
 
+
+
+
+### 47. Anonymizing Tweets | Kaggle
+
+### 48. Making text sound old-timey with transformers (Part 4) | Kaggle
+
+### 49. Making text sound old-timey with transformers (Part 3) | Kaggle
+
+### 50. Making text sound old-timey with transformers (Part 2) | Kaggle
+
+### 51. Making text sound old-timey with transformers (Part 1) | Kaggle
+
+### 52. Making text sound old-timey with transformers (Python)! | Kaggle
+
+### 53. Analyzing survey results with R | Kaggle
+
+### 54. Text-Based Dashboards | Kaggle
+
+### 55. RNNs for Sarcasm Detection | Kaggle
+
+### 56. Tensorflow in R for Quora Insincere Questions Classification | Kaggle
+
+### 57. Mapping the Data Science Package Ecosystem | Kaggle
+
+### 58. What are Kaggler's favorite packages? | Kaggle
+
+Join Kaggle Data Scientist Rachael as she works on data science projects! 
+
+This week, we'll be looking at what R & Python packages Kagglers use the most in their public kernels. 
+
+### 59. Tokenizing for NLP | Kaggle
+
+### 60. How to turn text into structured data for NLP | Kaggle
+
+### 61. Mapping fair trade chocolate with geopandas | Kaggle
+
+### 62. How to come up with unique ideas for projects | Kaggle
+
+### 63. Putting together your data science portfolio | Kaggle
+
+### 64. Graphing entity co-occurrence in online rumors (part 2) | Kaggle
+
+### 65. Graphing entity co-occurrence in online rumors (part 1) | Kaggle
+
+Join Kaggle data scientist Rachael live as she works on data science projects!
+
+### 66. Named Entity Recognition | Kaggle
+
+### 67. Reproducing a Paper in 60 Minutes | Kaggle
+
+Join Kaggle Data Scientist Rachael as she attempts to replicate a paper... in just 60 minutes.
+
+### 68. Does Undergraduate Major Affect Coder's Ethics? | Kaggle
+
+Join Kaggle Data Scientist Rachael as she uses data from the Stack Overflow Developer's survey to investigate whether a survey-taker's undergraduate degree affects how likely they are to say that they'd work on a project they consider unethical. 
+
+### 69. Deep Learning with GPUs (part 3) | Kaggle
+
+### 70. Deep Learning with GPUs (part 2) | Kaggle
+
+### 71. Deep Learning with GPUs (part 1) | Kaggle
+
 ### 72. Q&A | Kaggle
 
 Join Kaggle Data Scientist Rachael for something a bit different: a question and answers episode! 
