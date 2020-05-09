@@ -106,6 +106,8 @@ Join Kaggle data scientist Rachael Tatman as she investigates whether it's getti
 
 ### 34. Code Reviews! Class imbalanced in Python | Kaggle
 
+language: python3.6
+
 Today we'll be reviewing code instead of writing our own. We'll be looking for: 
 
 🐞 bugs the authors might have missed
@@ -113,7 +115,9 @@ Today we'll be reviewing code instead of writing our own. We'll be looking for:
 🔡 confusing names/comments
 
 Link to code: 
-- "Dealing with unbalance: EDA,PCA,SMOTE,LR,SVM,DT,RF" by Alexander Abstreiter, https://www.kaggle.com/ambpro/dealing-with-unbalance-eda-pca-smote-lr-svm-dt-rf
+- "Dealing with unbalance: EDA,PCA,SMOTE,LR,SVM,DT,RF" by Alexander Abstreiter, 
+
+https://www.kaggle.com/ambpro/dealing-with-unbalance-eda-pca-smote-lr-svm-dt-rf
 
 
 ### 37. Code Reviews! | Kaggle
