@@ -27,6 +27,8 @@ More details here: https://www.kaggle.com/product-feedback/121068
 
 ### 5. Automatic ML | Kaggle
 
+link: https://www.kaggle.com/rtatman/data-cleaning-automl
+
 ### 6. Data cleaning!🧹 | Kaggle
 
 This week it's all about the data cleaning. We'll be taking a raw survey dataset & get it ready to be used for classification.
