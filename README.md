@@ -36,3 +36,8 @@ This week it's all about the data cleaning. We'll be taking a raw survey dataset
 ### 34. Is it getting easier or harder to become a kernels expert? | Kaggle
 
 Join Kaggle data scientist Rachael Tatman as she investigates whether it's getting easier or harder to become a kernels expert (or master or grandmaster!). 
+
+
+### 35. Softmax from Scratch | Kaggle
+
+
