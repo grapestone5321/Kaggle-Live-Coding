@@ -8,7 +8,13 @@ Rachael was leaving Kaggle for new opportunities in 2020
 
 Streamed live on Dec 28, 2019
 
+language: python
+
 Rachael will be leaving Kaggle for new opportunities in the new year, so please join her for her final live stream on the Kaggle channel where she'll go over some of her favorite notebooks from her time here.
+
+https://www.kaggle.com/kaggle/meta-kaggle
+
+link to data: https://www.kaggle.com/rtatman/rebeccaturner-how-to-get-upvotes-for-a-kernel-on-kaggle
 
 ### 2. Fuzzy Matching for Spelling Erros | Kaggle
 
