@@ -8,6 +8,8 @@ Rachael was leaving Kaggle for new opportunities in 2020
 
 Streamed live on Dec 28, 2019
 
+Rachael will be leaving Kaggle for new opportunities in the new year, so please join her for her final live stream on the Kaggle channel where she'll go over some of her favorite notebooks from her time here.
+
 ### 2. Fuzzy Matching for Spelling Erros | Kaggle
 
 Streamed live on Dec 21, 2019
