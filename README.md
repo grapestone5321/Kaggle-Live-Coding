@@ -65,6 +65,15 @@ https://www.kaggle.com/rtatman/rebeccaturner-data-prep-for-job-title-classificat
 
 ### 7. Error Analysis | Kaggle
 
+Streamed live on Nov 23, 2019
+
+language: python
+
+This week we'll be working on some error analysis for our trained AutoML models
+
+https://www.kaggle.com/rtatman/data-cleaning-automl
+
+
 ### 8. How to come up with ideas for a project 🤔 | Kaggle
 
 ### 9. Blank
