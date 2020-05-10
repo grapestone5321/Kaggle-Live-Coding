@@ -8,6 +8,8 @@ Rachael was leaving Kaggle for new opportunities in 2020
 
 ### 2. Fuzzy Matching for Spelling Erros | Kaggle
 
+Streamed live on Dec 21, 2019
+
 This week we'll be working on using fuzzy matching to help correct spelling errors in the dataset "International Energy Statistics" 
 
 link to data: https://www.kaggle.com/unitednations/international-energy-statistics
