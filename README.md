@@ -62,7 +62,7 @@ This week it's all about the data cleaning. We'll be taking a raw survey dataset
 
 ### 8. How to come up with ideas for a project 🤔 | Kaggle
 
-### 9. Automatic ML | Kaggle
+### 9. Blank
 
 ### 10. Data Cleaning for AutoML | Kaggle
 
