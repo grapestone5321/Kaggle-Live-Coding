@@ -20,7 +20,11 @@ link to data: https://www.kaggle.com/rtatman/rebeccaturner-how-to-get-upvotes-fo
 
 Streamed live on Dec 21, 2019
 
+language: python
+
 This week we'll be working on using fuzzy matching to help correct spelling errors in the dataset "International Energy Statistics" 
+
+https://www.kaggle.com/rtatman/cleaning-of-commodities-column
 
 link to data: https://www.kaggle.com/unitednations/international-energy-statistics
 
