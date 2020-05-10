@@ -101,12 +101,15 @@ We'll start by seeing how unsupervised keyword extraction goes (use YAKE) and ta
 
 ### 34. Is it getting easier or harder to become a kernels expert? | Kaggle
 
+Streamed live on May 18, 2019
 
 Join Kaggle data scientist Rachael Tatman as she investigates whether it's getting easier or harder to become a kernels expert (or master or grandmaster!).
 
 ### 35. Softmax from Scratch | Kaggle
 
-### 34. Code Reviews! Class imbalanced in Python | Kaggle
+### 36. Code Reviews! Class imbalanced in Python | Kaggle
+
+Streamed live on Apr 27, 2019
 
 language: python3.6
 
