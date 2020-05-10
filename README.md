@@ -6,6 +6,8 @@ Rachael was leaving Kaggle for new opportunities in 2020
 
 ### 1. Rachael's Farewell Stream | Kaggle
 
+Streamed live on Dec 28, 2019
+
 ### 2. Fuzzy Matching for Spelling Erros | Kaggle
 
 Streamed live on Dec 21, 2019
