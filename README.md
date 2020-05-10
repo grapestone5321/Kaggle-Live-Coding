@@ -314,6 +314,14 @@ First, she shows how to read in a simple example dataset and then a larger (and 
 
 ### 79. Emoji Analysis (part 5) | Kaggle
 
+Apr 21, 2018
+
+language: R
+
+Join Kaggle Data Scientist Rachael as she finishes working a project to analyze patterns of emoji usage. 
+
+In this section, she wraps up her analysis and figures out which emoji are most likely to be repeated.
+
 ### 80. Emoji Analysis (part 4) | Kaggle
 
 ### 81. Emoji Analysis (part 3) | Kaggle
