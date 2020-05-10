@@ -42,6 +42,10 @@ More details here: https://www.kaggle.com/product-feedback/121068
 
 ### 5. Automatic ML | Kaggle
 
+Streamed live on Nov 2, 2019
+
+language: python
+
 link: https://www.kaggle.com/rtatman/data-cleaning-automl
 
 ### 6. Data cleaning!🧹 | Kaggle
