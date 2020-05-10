@@ -88,10 +88,32 @@ https://www.kaggle.com/rtatman/examiner-top-10-lists
 
 ### 10. Data Cleaning for AutoML | Kaggle
 
+Premiered Oct 26, 2019
+
+This week Rachael will be working on data cleaning to prep a dataset to be used with the TPOT automated ML library. 
+
+
+
 
 ### 11. Automatic Machine Learning | Kaggle
 
+Streamed live on Oct 19, 2019
+
+language: python
+
+This week we're starting on a new project: trying out different automatic machine learning libraries!
+
 ### 12. Automatically generating reports | Kaggle
+
+Streamed live on Sep 21, 2019
+
+language: python
+
+Today we'll be working on taking the output of our text clusters and use it to generate a human-readable report.
+
+https://www.kaggle.com/rtatman/forum-post-embeddings-clustering-1-0
+
+Link to paper: https://arxiv.org/pdf/1906.04358.pdf
 
 ### 13. Making code modular | Kaggle
 
