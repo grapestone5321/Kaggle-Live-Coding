@@ -29,7 +29,13 @@ link to data: https://www.kaggle.com/unitednations/international-energy-statisti
 
 ### 4. Trying out Kaggle Tasks (new!) | Kaggle
 
+Streamed live on Dec 14, 2019
+
+language: R
+
 This week, Kaggle data scientist Rachael will try her hand and some of the new Kaggle Tasks. 
+
+https://www.kaggle.com/rtatman/international-energy-statistics-summary
 
 More details here: https://www.kaggle.com/product-feedback/121068
 
