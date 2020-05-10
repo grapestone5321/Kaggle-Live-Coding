@@ -54,9 +54,14 @@ link: https://www.kaggle.com/rtatman/data-cleaning-automl
 
 ### 6. Data cleaning!🧹 | Kaggle
 
+Streamed live on Nov 9, 2019
+
+language: R
+
+
 This week it's all about the data cleaning. We'll be taking a raw survey dataset & get it ready to be used for classification.
 
-
+https://www.kaggle.com/rtatman/rebeccaturner-data-prep-for-job-title-classification
 
 ### 7. Error Analysis | Kaggle
 
