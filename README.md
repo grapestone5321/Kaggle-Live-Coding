@@ -76,6 +76,14 @@ https://www.kaggle.com/rtatman/data-cleaning-automl
 
 ### 8. How to come up with ideas for a project 🤔 | Kaggle
 
+Streamed live on Dec 7, 2019
+
+language: R
+
+This week Rachael will walk through how she comes up with ideas for data science projects to work on.
+
+https://www.kaggle.com/rtatman/examiner-top-10-lists
+
 ### 9. Blank
 
 ### 10. Data Cleaning for AutoML | Kaggle
