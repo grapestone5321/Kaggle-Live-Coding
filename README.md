@@ -15,11 +15,7 @@ This week we'll be working on using fuzzy matching to help correct spelling erro
 link to data: https://www.kaggle.com/unitednations/international-energy-statistics
 
 
-### 3. On NMT Search Errors and Model Errors: Cat Got Your Tongue? (Part 2) | Kaggle
-
-This week we'll be continuing "On NMT Search Errors and Model Errors: Cat Got Your Tongue?" by Felix Stahlber and Bill Byrne, published at EMNLP 2019. 
-
-You can follow along with the paper here: https://www.aclweb.org/anthology/D19-1331.pdf
+### 3. Blank 
 
 ### 4. Trying out Kaggle Tasks (new!) | Kaggle
 
