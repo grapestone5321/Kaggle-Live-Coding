@@ -261,10 +261,15 @@ Link: https://www.kaggle.com/c/gendered-pronoun-resolution
 
 ### 52. Making text sound old-timey with transformers (Python)! | Kaggle
 
+Streamed live on Jan 5, 2019
+
+language: python
+
 Join Kaggle data scientist Rachael live as she works on data science projects! 
 
 This week we're going to start on a project to make current English sound a little more like early Modern English (think Shakespeare) with transformers.
 
+https://www.kaggle.com/rtatman/transformers-to-sound-old-timey-bcf85d
 
 ### 53. Analyzing survey results with R | Kaggle
 
