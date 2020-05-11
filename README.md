@@ -139,6 +139,14 @@ Link to paper: https://arxiv.org/pdf/1906.04358.pdf
 
 ### 24. Word Embeddings | Kaggle
 
+Streamed live on Jul 13, 2019
+
+language: python
+
+This week we're going to be training word embeddings based on the Kaggle forums that we can use to classify forum posts later on.
+
+https://www.kaggle.com/rtatman/fine-tuning-word2vec
+
 ### 25. Setting Up NLP Pipeline | Kaggle
 
 ### 26. Evaluating clusters (text data) | Kaggle
