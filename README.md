@@ -157,7 +157,11 @@ In this live-coding episode we'll continue with our project to summarize and clu
 
 We've gotten keyword extraction and Brown clustering working so today we'll put these two approaches into a single pipeline.
 
+https://www.kaggle.com/rtatman/brown-clustering-trial
+
 https://www.kaggle.com/rtatman/yake-brown-clustering-pipeline
+
+
 
 ### 26. Evaluating clusters (text data) | Kaggle
 
