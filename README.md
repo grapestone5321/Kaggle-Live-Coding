@@ -149,6 +149,16 @@ https://www.kaggle.com/rtatman/fine-tuning-word2vec
 
 ### 25. Setting Up NLP Pipeline | Kaggle
 
+Streamed live on Jun 29, 2019
+
+language: python
+
+In this live-coding episode we'll continue with our project to summarize and clustering Kaggle forum posts. 
+
+We've gotten keyword extraction and Brown clustering working so today we'll put these two approaches into a single pipeline.
+
+https://www.kaggle.com/rtatman/yake-brown-clustering-pipeline
+
 ### 26. Evaluating clusters (text data) | Kaggle
 
 ### 27. Making text sound old-timey with transformers (Part 5) | Kaggle
