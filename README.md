@@ -187,9 +187,14 @@ We'll start by seeing how unsupervised keyword extraction goes (use YAKE) and ta
 
 ### 34. Is it getting easier or harder to become a kernels expert? | Kaggle
 
+
 Streamed live on May 18, 2019
 
+language: python
+
 Join Kaggle data scientist Rachael Tatman as she investigates whether it's getting easier or harder to become a kernels expert (or master or grandmaster!).
+
+https://www.kaggle.com/rtatman/rebeccaturner-how-to-get-upvotes-for-a-kernel-on-kaggle
 
 ### 35. Softmax from Scratch | Kaggle
 
@@ -197,7 +202,7 @@ Join Kaggle data scientist Rachael Tatman as she investigates whether it's getti
 
 Streamed live on Apr 27, 2019
 
-language: python3.6
+language: python
 
 Today we'll be reviewing code instead of writing our own. We'll be looking for: 
 
