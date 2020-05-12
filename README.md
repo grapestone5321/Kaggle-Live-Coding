@@ -133,23 +133,87 @@ https://www.kaggle.com/rtatman/forum-post-embeddings-clustering-1-0
 
 ### 14. Automating report generation | Kaggle
 
+Streamed live on Oct 12, 2019
+
+language: python
+
+This week Rachael will continue to work on her forum clustering project. 
+
+Now that we've got our clusters, we need to generate better reports for them!
+
+
+
+https://www.kaggle.com/rtatman/forum-post-embeddings-clustering-1-0
+
 ### 15. Identifying the most important words in a cluster (Part 2) | Kaggle
+
+Streamed live on Sep 14, 2019
+
+language: python
+
+Join Kaggle data scientist Rachael Tatman as she works on data science projects live.
+
+https://www.kaggle.com/rtatman/forum-post-embeddings-clustering
 
 ### 16. Identifying the most important words in a cluster (Part 1) | Kaggle
 
+Streamed live on Sep 7, 2019
+
+language: python
+
+This week we'll continue with our clustering project and look into how to determine which words are most important in each cluster.
+
+
+Notebook: https://www.kaggle.com/rtatman/forum-post-embeddings-clustering
+
+
 ### 17. Implementing Text Cluster Visualizations | Kaggle
+
+Streamed live on Aug 31, 2019
+
+language: python
+
+This week we'll be implementing some text cluster visualization methods based on the visualization and summarization research we looked at a couple weeks ago. Come join!
+
+Link to notebook: https://www.kaggle.com/rtatman/forum-post-embeddings-clustering
+
 
 ### 18. Surprise Debugging 😳🐛 | Kaggle
 
+Streamed live on Aug 24, 2019
+
+language: python
+
+Juuust kidding, we spent the whole time debugging. (We did eventually get the bug, though!)
+
+
+https://www.kaggle.com/rtatman/forum-post-embeddings-clustering
+
 ### 19. Visualizing Clusters | Kaggle
+
+Streamed live on Aug 17, 2019
+
+language: python
+
+
+This week we'll be figuring out how to efficiently communicate the content of clusters in our document clustering project. 
+
+https://www.kaggle.com/rtatman/forum-post-embeddings-clustering
 
 ### 20. Data Cleaning for Topics | Kaggle
 
+
+
 ### 21. Hierarchical Document Clustering | Kaggle
+
+
 
 ### 22. Document Clustering | Kaggle
 
+
 ### 23. Document Embedding | Kaggle
+
+
 
 ### 24. Word Embeddings | Kaggle
 
