@@ -106,6 +106,8 @@ language: python
 
 This week we're starting on a new project: trying out different automatic machine learning libraries!
 
+https://www.kaggle.com/thebrownviking20/tpot-a-great-tool-to-automate-your-ml-workflow
+
 ### 12. Automatically generating reports | Kaggle
 
 Streamed live on Sep 21, 2019
