@@ -90,10 +90,13 @@ https://www.kaggle.com/rtatman/examiner-top-10-lists
 
 Premiered Oct 26, 2019
 
+
+language: python
+
 This week Rachael will be working on data cleaning to prep a dataset to be used with the TPOT automated ML library. 
 
 
-
+https://www.kaggle.com/thebrownviking20/tpot-a-great-tool-to-automate-your-ml-workflow
 
 ### 11. Automatic Machine Learning | Kaggle
 
