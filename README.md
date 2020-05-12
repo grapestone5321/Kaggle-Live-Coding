@@ -340,6 +340,12 @@ Join Kaggle Data Scientist Rachael as she works on reproducing the figures and a
 
 ### 78. Reading in JSON Files | Kaggle
 
+
+Apr 13, 2018
+
+
+language: R
+
 Join Kaggle Data Scientist Rachael as she talks about how to read JSON files into R and convert them into different data structure. 
 
 First, she shows how to read in a simple example dataset and then a larger (and less tidy!) JSON dataset.
