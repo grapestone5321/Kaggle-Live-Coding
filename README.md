@@ -122,6 +122,15 @@ Link to paper: https://arxiv.org/pdf/1906.04358.pdf
 
 ### 13. Making code modular | Kaggle
 
+Streamed live on Oct 5, 2019
+
+language: python
+
+
+This week Rachael will be working on polishing some of her existing code to get it ready to go into production by making it more modular. 
+
+https://www.kaggle.com/rtatman/forum-post-embeddings-clustering-1-0
+
 ### 14. Automating report generation | Kaggle
 
 ### 15. Identifying the most important words in a cluster (Part 2) | Kaggle
