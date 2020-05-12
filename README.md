@@ -202,10 +202,30 @@ https://www.kaggle.com/rtatman/forum-post-embeddings-clustering
 
 ### 20. Data Cleaning for Topics | Kaggle
 
+Streamed live on Aug 10, 2019
 
+language: python
+
+
+Join Kaggle data scientist Rachael as she does data science work live. 
+
+Today we'll work through removing very common topics from our forum post clustering project, so that the remaining topics are more informative.
+
+https://www.kaggle.com/rtatman/removing-polite-posts
+
+https://www.kaggle.com/rtatman/forum-post-embeddings-clustering
 
 ### 21. Hierarchical Document Clustering | Kaggle
 
+Streamed live on Aug 3, 2019
+
+language: python
+
+Last week we successfully got clusters (yay!) but they could use some fine-tuning. 
+
+This week we'll starting to look at hierarchical clusters and possibly work on some visualizations. 
+
+You can find the code we've written so far here: https://www.kaggle.com/rtatman/forum-post-embeddings-clustering
 
 
 ### 22. Document Clustering | Kaggle
