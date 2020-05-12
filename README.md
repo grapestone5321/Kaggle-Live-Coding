@@ -4,6 +4,13 @@
 
 Rachael was leaving Kaggle for new opportunities in 2020
 
+
+Join Kaggle Data Scientist Rachael as she works on data analysis live. 
+
+See first-hand the joys (and frustrations) of doing data science. 
+
+See all of the previous Kaggle Live-Coding sessions here: http://bit.ly/KaggleLiveCoding
+
 ### 1. Rachael's Farewell Stream | Kaggle
 
 Streamed live on Dec 28, 2019
@@ -230,10 +237,25 @@ You can find the code we've written so far here: https://www.kaggle.com/rtatman/
 
 ### 22. Document Clustering | Kaggle
 
+Streamed live on Jul 27, 2019
+
+language: python
+
+This week we'll take the document embeddings we got last week and try out some distance based clustering approaches. 
+
+https://www.kaggle.com/rtatman/forum-post-embeddings-clustering
+
 
 ### 23. Document Embedding | Kaggle
 
+Streamed live on Jul 20, 2019
 
+language: python
+
+
+This week we're going to be training word embeddings based on the Kaggle forums that we can use to classify forum posts later on.
+
+https://www.kaggle.com/rtatman/forum-post-embeddings
 
 ### 24. Word Embeddings | Kaggle
 
@@ -263,15 +285,67 @@ https://www.kaggle.com/rtatman/yake-brown-clustering-pipeline
 
 ### 26. Evaluating clusters (text data) | Kaggle
 
+Streamed live on Jun 22, 2019
+
+language: python
+
+Come join Kaggle data scientist Rachael as she does data science work live! 
+
+This week we're going to be continuing our forum bot project. 
+
+We'll be finishing up our Brown clustering from last week & figuring out how to evaluate them. 
+
+https://www.kaggle.com/rtatman/brown-clustering-trial
+
+
+
+
+
 ### 27. Making text sound old-timey with transformers (Part 5) | Kaggle
+
+Streamed live on Feb 16, 2019
+
+language: python
+
+Join Kaggle data scientist Rachael live as she works on data science projects! 
+
+This week we're going to continue our a project to make current English sound a little more like early Modern English (think Shakespeare) with transformers.
+
+
+https://www.kaggle.com/rtatman/transformers-to-sounds-old-timey/
 
 ### 28. Topic Modelling for Kaggle Forums | Kaggle
 
+Streamed live on Dec 18, 2018
+
+
+
+Join Kaggle data scientist Rachael live as she works on data science projects!
+
+
+
 ### 29. Topic Modelling for Kaggle Forums | Kaggle
+
+
 
 ### 30. Brown Clustering | Kaggle
 
+Streamed live on Jun 15, 2019
+
+language: python
+
+
+This week we'll be working on using Brown Clusters for unsupervised text clustering based on the paper “Class based n-gram models of natural language” by Brown et al (1992). 
+
+You can read the paper here: https://www.aclweb.org/anthology/J92-4003.pdf
+
+https://www.kaggle.com/rtatman/brown-clustering-yangyuan
+
+https://www.kaggle.com/rtatman/brown-clustering-trial
+
 ### 31. Unsupervised Keyword Extraction| Kaggle
+
+
 
 This week we're going to continue on our forum-summarizing chat bot project. 
 
