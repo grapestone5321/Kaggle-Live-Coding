@@ -506,6 +506,18 @@ Join Kaggle Data Scientist Rachael as she trains custom word embeddings based on
 
 ### 74. Reproducing Research Project (part 4) | Kaggle
 
+Jun 2, 2018
+
+language: R
+
+Join Kaggle Data Scientist Rachael as she works on reproducing the figures and analysis from a research paper. In this episode, we finish up the project and share some of the main findings.
+
+You can read the paper here: https://econjwatch.org/File+download/1037/LachanskiPavSept2017.pdf?mimetype=pdf
+The paper Github repo is here: https://github.com/shabbychef/bogbt
+
+This footage has not been edited so you can see the whole process, errors and all. :)
+
+
 ### 75. Reproducing Research Project (part 3) | Kaggle
 
 ### 76. Reproducing Research Project (part 2) | Kaggle
