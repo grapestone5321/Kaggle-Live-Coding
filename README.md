@@ -482,6 +482,14 @@ Join Kaggle data scientist Rachael live as she works on data science projects!
 
 ### 66. Named Entity Recognition | Kaggle
 
+Streamed live on Jul 28, 2018
+
+language: python
+
+Join Kaggle data scientist Rachael live as she works on data science projects!
+
+https://www.kaggle.com/rtatman/named-entity-recognition
+
 ### 67. Reproducing a Paper in 60 Minutes | Kaggle
 
 Join Kaggle Data Scientist Rachael as she attempts to replicate a paper... in just 60 minutes.
