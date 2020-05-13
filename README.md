@@ -430,11 +430,60 @@ Link: https://www.kaggle.com/c/gendered-pronoun-resolution
 
 ### 48. Making text sound old-timey with transformers (Part 4) | Kaggle
 
+Streamed live on Feb 2, 2019
+
+language: python
+
+Join Kaggle data scientist Rachael live as she works on data science projects! 
+
+This week we're going to continue our a project to make current English sound a little more like early Modern English (think Shakespeare) with transformers.
+
+Link to the GitHub repo we're using code from: https://github.com/Kyubyong/transformer
+
+https://www.kaggle.com/rtatman/transformers-to-sounds-old-timey
+
+
 ### 49. Making text sound old-timey with transformers (Part 3) | Kaggle
+
+Streamed live on Jan 26, 2019
+
+language: python
+
+Join Kaggle data scientist Rachael live as she works on data science projects! 
+
+This week we're going to continue our a project to make current English sound a little more like early Modern English (think Shakespeare) with transformers.
+
+Link to the GitHub repo we're using code from: https://github.com/Kyubyong/transformer
+
+https://www.kaggle.com/rtatman/transformers-to-sounds-old-timey
 
 ### 50. Making text sound old-timey with transformers (Part 2) | Kaggle
 
-### 51. Making text sound old-timey with transformers (Part 1) | Kaggle
+Streamed live on Jan 12, 2019
+
+language: python
+
+Join Kaggle data scientist Rachael live as she works on data science projects! 
+
+This week we're going to continue our a project to make current English sound a little more like early Modern English (think Shakespeare) with transformers.
+
+Link to the GitHub repo we're using code from: https://github.com/Kyubyong/transformer
+
+https://www.kaggle.com/rtatman/transformers-to-sounds-old-timey
+
+### 51. Making text sound old-timey with transformers (Part 2.1) | Kaggle
+
+Streamed live on Jan 12, 2019
+
+language: python
+
+Join Kaggle data scientist Rachael live as she works on data science projects! 
+
+This week we're going to continue our a project to make current English sound a little more like early Modern English (think Shakespeare) with transformers.
+
+Link to the GitHub repo we're using code from: https://github.com/Kyubyong/transformer
+
+https://www.kaggle.com/rtatman/transformers-to-sounds-old-timey
 
 ### 52. Making text sound old-timey with transformers (Python)! | Kaggle
 
