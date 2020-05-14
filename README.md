@@ -528,6 +528,12 @@ This week, we'll be looking at what R & Python packages Kagglers use the most in
 
 ### 64. Graphing entity co-occurrence in online rumors (part 2) | Kaggle
 
+Streamed live on Aug 11, 2018
+
+Join Kaggle data scientist Rachael live as she works on data science projects!
+
+
+
 ### 65. Graphing entity co-occurrence in online rumors (part 1) | Kaggle
 
 Join Kaggle data scientist Rachael live as she works on data science projects!
