@@ -326,6 +326,9 @@ Join Kaggle data scientist Rachael live as she works on data science projects!
 
 ### 29. Topic Modelling for Kaggle Forums | Kaggle
 
+Streamed live on Dec 18, 2018
+
+Join Kaggle data scientist Rachael live as she works on data science projects!
 
 
 ### 30. Brown Clustering | Kaggle
