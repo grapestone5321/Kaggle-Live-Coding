@@ -558,6 +558,18 @@ Join Kaggle Data Scientist Rachael as she uses data from the Stack Overflow Deve
 
 ### 69. Deep Learning with GPUs (part 3) | Kaggle
 
+Jul 3, 2018
+
+
+language: python
+
+
+Join Kaggle Data Scientist Rachael as she continues her emoji generation project using Kaggle's new GPU resources! 
+
+This footage has not been edited so you can see the whole process, errors and all.
+
+https://www.kaggle.com/rtatman/intro-to-lstms-w-keras-gpu-for-text-generation
+
 ### 70. Deep Learning with GPUs (part 2) | Kaggle
 
 ### 71. Deep Learning with GPUs (part 1) | Kaggle
