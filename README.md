@@ -546,9 +546,15 @@ https://www.kaggle.com/rtatman/transformers-to-sound-old-timey-bcf85d
 
 ### 58. What are Kaggler's favorite packages? | Kaggle
 
+Streamed live on Oct 27, 2018
+
+language: R
+
 Join Kaggle Data Scientist Rachael as she works on data science projects! 
 
-This week, we'll be looking at what R & Python packages Kagglers use the most in their public kernels. 
+This week, we'll be looking at what R & Python packages Kagglers use the most in their public kernels.
+
+https://www.kaggle.com/rtatman/kaggler-s-favorite-packages
 
 ### 59. Tokenizing for NLP | Kaggle
 
