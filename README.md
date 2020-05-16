@@ -318,7 +318,7 @@ https://www.kaggle.com/rtatman/transformers-to-sounds-old-timey/
 
 Streamed live on Dec 18, 2018
 
-
+YouTube was not worked
 
 Join Kaggle data scientist Rachael live as she works on data science projects!
 
@@ -327,6 +327,8 @@ Join Kaggle data scientist Rachael live as she works on data science projects!
 ### 29. Topic Modelling for Kaggle Forums | Kaggle
 
 Streamed live on Dec 18, 2018
+
+YouTube was not worked
 
 Join Kaggle data scientist Rachael live as she works on data science projects!
 
