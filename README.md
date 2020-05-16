@@ -350,17 +350,40 @@ https://www.kaggle.com/rtatman/brown-clustering-trial
 
 ### 31. Unsupervised Keyword Extraction| Kaggle
 
+Streamed live on Jun 8, 2019
+
+language: python
 
 
 This week we're going to continue on our forum-summarizing chat bot project. 
 
 We'll start by seeing how unsupervised keyword extraction goes (use YAKE) and take it from there.
 
+https://www.kaggle.com/rtatman/yake-example
+
 ### 32. Comparing unsupervised classification methods for text | Kaggle
+
+Streamed live on Jun 1, 2019
+
+language: python
+
+This week we're going to continue on our forum-summarizing chat bot project by comparing different methods for unsupervised text classification.
+
+Possible approches to summerization: https://repositorio.inesctec.pt/bitstream/123456789/7623/1/P-00N-NF5.pdf
+
+https://www.kaggle.com/rtatman/notes-on-forums-slack-bot-project
 
 ### 33. Scoping & Starting an NLP Project | Kaggle
 
+Streamed live on May 25, 2019
 
+language: python
+
+Join Kaggle Data Scientist Rachael as she starts a new NLP project. 
+
+We'll figure out what questions we want to answer, possible approaches, how to measure success and possibly get started finding data.
+
+https://www.kaggle.com/rtatman/notes-on-forums-slack-bot-project
 
 ### 34. Is it getting easier or harder to become a kernels expert? | Kaggle
 
@@ -374,6 +397,9 @@ Join Kaggle data scientist Rachael Tatman as she investigates whether it's getti
 https://www.kaggle.com/rtatman/rebeccaturner-how-to-get-upvotes-for-a-kernel-on-kaggle
 
 ### 35. Softmax from Scratch | Kaggle
+
+
+
 
 ### 36. Code Reviews! Class imbalanced in Python | Kaggle
 
