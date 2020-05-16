@@ -398,7 +398,13 @@ https://www.kaggle.com/rtatman/rebeccaturner-how-to-get-upvotes-for-a-kernel-on-
 
 ### 35. Softmax from Scratch | Kaggle
 
+Streamed live on May 11, 2019
 
+language: R
+
+Join Kaggle data scientist Rachael Tatman as she implements softmax from scratch.
+
+https://www.kaggle.com/rtatman/softmax-from-scratch
 
 
 ### 36. Code Reviews! Class imbalanced in Python | Kaggle
