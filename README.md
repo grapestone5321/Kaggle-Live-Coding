@@ -427,6 +427,22 @@ https://www.kaggle.com/ambpro/dealing-with-unbalance-eda-pca-smote-lr-svm-dt-rf
 
 ### 37. Code Reviews! | Kaggle
 
+Streamed live on Apr 20, 2019
+
+Today we'll be reviewing code instead of writing our own. We'll be looking for: 
+
+🐞 bugs the authors might have missed
+🎿 places we can improve efficiency
+🔡 confusing names/comments
+
+Links to code: 
+- "Twitter Sentiment Analysis using R" by Harsh Gupta, https://github.com/harshbg/Twitter-Sentiment-Analysis-using-R
+- "Dealing with unbalance: EDA,PCA,SMOTE,LR,SVM,DT,RF" by Alexander Abstreiter, https://www.kaggle.com/ambpro/dealing-with-unbalance-eda-pca-smote-lr-svm-dt-rf
+
+Join the Kaggle Slack: http://hyperurl.co/r4q433
+
+Full details and schedule for Kaggle CareerCon:
+https://kaggle.com/careercon/2019
 
 ### 38. Are people more likely to use datasets with starter scripts? | Kaggle
 
@@ -538,7 +554,25 @@ https://www.kaggle.com/rtatman/transformers-to-sound-old-timey-bcf85d
 
 ### 54. Text-Based Dashboards | Kaggle
 
+Streamed live on Dec 22, 2018
+
+language: R
+
+Join Kaggle data scientist Rachael live as she works on data science projects! Today she's going to working on a dashboard based on text data to monitor the Kaggle forums.
+
+https://www.kaggle.com/rtatman/what-s-up-in-the-forums
+
 ### 55. RNNs for Sarcasm Detection | Kaggle
+
+Streamed live on Dec 1, 2018
+
+language: R
+
+
+Join Kaggle data scientist Rachael live as she works on data science projects!
+
+
+
 
 ### 56. Tensorflow in R for Quora Insincere Questions Classification | Kaggle
 
