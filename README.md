@@ -466,6 +466,29 @@ You can find a copy here: https://d4mucfpksywv.cloudfront.net/better-language-mo
 
 ### 43. Code Reviews! | Kaggle
 
+
+Streamed live on Mar 2, 2019
+
+language: R
+
+Today we'll be reviewing code instead of writing our own. We'll be looking for: 
+
+🐞 bugs the authors might have missed
+🎿 places we can improve efficiency
+🔡 confusing names/comments
+
+Links to code: 
+
+- "NBA Clustering" by Kendall (@KendallaSmith_) https://github.com/kasmith11/NBA.Clustering
+
+- "P Value Distribution" by Daniel (@DanielCanueto)
+https://github.com/danielcanueto/p_value_distributions
+
+- "Understanding heart disease with data science" by Victor (@victor_basu_360) https://www.kaggle.com/basu369victor/understanding-heart-disease-with-data-science
+
+
+
+
 ### 44. Graphing entity co-occurrence in online rumors (part 3) | Kaggle
 
 
