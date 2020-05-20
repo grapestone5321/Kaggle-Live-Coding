@@ -615,6 +615,18 @@ https://www.kaggle.com/rtatman/kaggler-s-favorite-packages
 
 ### 59. Tokenizing for NLP | Kaggle
 
+
+Streamed live on Oct 13, 2018
+
+language: python
+
+
+https://www.kaggle.com/rtatman/rebeccaturner-live-coding-tokenization
+
+language: R
+
+https://www.kaggle.com/rtatman/live-coding-tokenization-r
+
 ### 60. How to turn text into structured data for NLP | Kaggle
 
 ### 61. Mapping fair trade chocolate with geopandas | Kaggle
