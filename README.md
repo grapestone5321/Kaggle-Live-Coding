@@ -688,6 +688,10 @@ https://www.kaggle.com/rtatman/intro-to-lstms-w-keras-gpu-for-text-generation
 
 ### 70. Deep Learning with GPUs (part 2) | Kaggle
 
+
+https://www.kaggle.com/rtatman/intro-to-lstms-w-keras-gpu-for-text-generation
+
+
 ### 71. Deep Learning with GPUs (part 1) | Kaggle
 
 ### 72. Q&A | Kaggle
