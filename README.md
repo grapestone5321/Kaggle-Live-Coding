@@ -627,6 +627,13 @@ language: R
 
 https://www.kaggle.com/rtatman/live-coding-tokenization-r
 
+Join Kaggle Data Scientist Rachael as she works on data science projects! 
+
+This week, we'll be looking at various methods for tokenizing in NLP, in both Python & R. 
+
+
+Tokenization tutorial: https://www.kaggle.com/rtatman/tokenization-tutorial
+
 ### 60. How to turn text into structured data for NLP | Kaggle
 
 ### 61. Mapping fair trade chocolate with geopandas | Kaggle
