@@ -448,6 +448,15 @@ https://kaggle.com/careercon/2019
 
 ### 38. Are people more likely to use datasets with starter scripts? | Kaggle
 
+Streamed live on Mar 23, 2019
+
+
+Join Kaggle Data Scientist Rachael as she works on data science projects! 
+
+Today we'll be looking at Kaggle's own data to figure out whether people are more likely to use datasets with starter scripts provided by the authors.
+
+
+
 ### 39. Intro to Machine Learning with R (Part 2) | Kaggle
 
 ### 40. Intro to Machine Learning with R (Part 1) | Kaggle
