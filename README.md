@@ -505,6 +505,10 @@ https://github.com/danielcanueto/p_value_distributions
 
 ### 45. Getting Started with the Gendered Pronoun Resolution Competition | Kaggle
 
+Streamed live on Feb 9, 2019
+
+language: python
+
 Join Kaggle data scientist Rachael live as she works on data science projects! 
 
 This week we're going to start working on an entry for the new Gendered Pronoun Resolution competition. 
