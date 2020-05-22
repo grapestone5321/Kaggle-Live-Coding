@@ -5,8 +5,6 @@
 Rachael was leaving Kaggle for new opportunities in 2020
 
 
-
-
 Join Kaggle Data Scientist Rachael as she works on data analysis live. 
 
 See first-hand the joys (and frustrations) of doing data science. 
